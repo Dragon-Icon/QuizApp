@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru&display=swap');
+body{
+    font-family: Kiwi Maru;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.quiz-container{
+    background-color: aqua;
+    width: 300px;
+}
+
